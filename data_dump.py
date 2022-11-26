@@ -27,4 +27,4 @@ if __name__ == "__main__":
 
     client[DATABASE_NAME][Collection_Name].insert_many(json_record)
 
-    # balnk
+    # balnk -1
