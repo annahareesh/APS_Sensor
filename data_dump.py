@@ -26,5 +26,3 @@ if __name__ == "__main__":
     # inserting json record to Mango db
 
     client[DATABASE_NAME][Collection_Name].insert_many(json_record)
-
-    
