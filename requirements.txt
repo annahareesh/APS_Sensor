@@ -1,2 +1,9 @@
 pymongo
 pandas  
+
+## to convert our code as a library/package , we need to have a setup file
+
+# find package will identify our sensor as pacakage  .... by checking if folder has file ###   __init__.py 
+
+##  by identifying __init__.py file in folder #find_package() function will identify package
+
