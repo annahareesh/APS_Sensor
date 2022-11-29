@@ -14,3 +14,8 @@ pip install -r requirements.txt
 python main.py
 ```
 wget -- command used for download data
+
+-e is important , with its preszsence we can make our source code as library.
+here -e means editable , ' . ' represents current directory
+
+Since we are releasing a version code for our file, so -e . is required.
